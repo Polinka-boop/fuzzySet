@@ -1,0 +1,10 @@
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\bin\Debug\fuzzySet.exe.config
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\bin\Debug\fuzzySet.exe
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\bin\Debug\fuzzySet.pdb
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.csproj.AssemblyReference.cache
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.Form1.resources
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.Properties.Resources.resources
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.csproj.GenerateResource.cache
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.exe
+C:\Users\Polina\source\repos\fuzzySet\fuzzySet\obj\Debug\fuzzySet.pdb
